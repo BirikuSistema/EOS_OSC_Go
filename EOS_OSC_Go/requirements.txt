@@ -1,0 +1,5 @@
+flet==0.22.*
+json
+os
+ipaddress
+pythonosc
