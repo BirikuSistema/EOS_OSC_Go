@@ -1,4 +1,3 @@
 flet==0.22.*
-os
 ipaddress
 pythonosc
